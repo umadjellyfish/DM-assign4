@@ -1,0 +1,7 @@
+{"system_id":1,"instance_id":1,"action_id":"login","timestamp":"2017-12-20T11:51:25.242Z"}
+{"system_id":0,"instance_id":2,"action_id":"login","timestamp":"2017-12-20T12:51:25.242Z"}
+{"system_id":0,"instance_id":1,"action_id":"upvote","timestamp":"2017-12-20T13:51:25.242Z"}
+{"system_id":1,"instance_id":1,"action_id":"downvote","timestamp":"2017-12-20T14:51:25.242Z"}
+{"system_id":0,"instance_id":2,"action_id":"create post","timestamp":"2017-12-20T15:51:25.242Z"}
+{"system_id":0,"instance_id":2,"action_id":"logout","timestamp":"2017-12-20T16:51:25.242Z"}
+{"system_id":0,"instance_id":3,"action_id":"create post","timestamp":"2017-12-20T16:51:25.242Z"}
